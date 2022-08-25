@@ -1,5 +1,7 @@
 # 环境配置
 
+[参考视频](https://www.bilibili.com/video/BV1pX4y1F7oz)
+
 * python 3.7以上
 * env 虚拟环境
     >django有很多app，如果没有虚拟环境，其中有像contrib下的migrations(配置数据迁移)就全部会装在django的模块下面，如果其它项目也使用django，那么就会被共享，进而数据迁移出现问题。

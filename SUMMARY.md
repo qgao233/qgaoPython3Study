@@ -10,3 +10,5 @@
 * [2 面向对象](chapter2/index.md)
 * [web框架--django_v3.2]()
   * [1 环境配置](django/section1/index.md)
+* [web框架--fastAPI_v]()
+  * [](fastAPI/section1/index.md)
