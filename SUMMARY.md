@@ -12,3 +12,4 @@
   * [1 环境配置与创建项目](django/section1/index.md)
 * [web框架--fastAPI_v]()
   * [1 环境配置与创建项目](fastAPI/section1/index.md)
+  * [2 启动项目](fastAPI/section2/index.md)

@@ -281,5 +281,5 @@ pairs  # [(4, 'four'), (1, 'one'), (3, 'three'), (2, 'two')]
 * 最好把注释放到单独一行。
 * 使用文档字符串。
 * 命名类用 UpperCamelCase，
-* 命名函数与方法用 lowercase_with_underscores。
+* 命名变量或函数与方法时用 lowercase_with_underscores。
 * 命名方法中第一个参数总是用 self
